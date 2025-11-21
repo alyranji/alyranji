@@ -20,13 +20,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white&labelColor=1E293B)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&labelColor=1E293B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=323330)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=plastic&logo=redux&logoColor=white&labelColor=3E275B)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=plastic&logo=reacthookform&logoColor=white&labelColor=1E293B)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=plastic&logo=zod&logoColor=white&labelColor=1E293B)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=plastic&logo=react-query&logoColor=white&labelColor=8B0000)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white&labelColor=1E293B)
-[![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
-![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2&style=plastic)
+
 
 ---
 
