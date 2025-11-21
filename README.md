@@ -44,4 +44,4 @@
 ## 📫 Let's Connect!
 
 <a href="mailto:ali.ranjbaran76@gmail.com"><img src="https://img.shields.io/badge/-ali.ranjbaran76@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyranji/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alyranji/)
