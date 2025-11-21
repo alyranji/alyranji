@@ -36,6 +36,7 @@
 | ✨ **JavaScript**         | 🧭 Dynamic interfaces, SPA logic                  | ⭐⭐⭐⭐☆ (Advanced)           |
 | 📝 **React Hook Form**    | ✅ Form handling with validation                   | ⭐⭐⭐⭐⭐ (Expert)             |
 | 🛡️ **Zod**               | 🧪 Schema validation & type-safe data parsing     | ⭐⭐⭐⭐⭐ (Expert)             |
+| 🤖 **Wordpress Development**               | 👨‍💻 Development of the world's most popular content management system   | ⭐⭐⭐⭐⭐ (Expert)             |
 
 ---
 
