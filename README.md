@@ -80,27 +80,27 @@
     <tr>
     <tr>
       <td>Mysmartgene Blog</td>
-      <td><a href="#">Live</a></td>
+      <td><a href="https://msg-blog-five.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/msg.jpg" width="100%"/></td>
     </tr>
     <tr>
       <td>Corner Gamenet</td>
-      <td><a href="https://resume-app-three-mu.vercel.app/">Live</a></td>
+      <td><a href="https://cornergaming.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/corner.jpg" width="100%"/></td>
     </tr>
     <tr>
       <td>Portfolio</td>
-      <td><a href="https://just-food5.vercel.app/">Live</a></td>
+      <td><a href="https://portfolio-two-azure-27.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/portfolio.jpg" width="100%"/></td>
     </tr>
     <tr>
       <td>My Doctor</td>
-      <td><a href="https://weather-ashy-three-72.vercel.app/">Live</a></td>
+      <td><a href="https://paziresh24-clone.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/my-doctor.jpg" width="100%"/></td>
     </tr>
    <tr>
       <td>InknowTex Iran</td>
-      <td><a href="https://weather-ashy-three-72.vercel.app/">Live</a></td>
+      <td><a href="https://inknowtex.ir/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/inknowtex.jpg" width="100%"/></td>
     </tr>
   </tbody>
