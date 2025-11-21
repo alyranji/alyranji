@@ -1,12 +1,12 @@
-
+<div align="center"> 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hello+I%27m+Ali+Ranjbaran%F0%9F%98%81%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.49504950495049505%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 
-🌻 **Hi, Alyranji is here** – A passionate Front-End Developer from Iran ❤️🤍💚
+🙋‍♂️ **Hi, Alyranji is here** – A passionate Front-End Developer from Iran ❤️🤍💚
 
 🎯 I specialize in building **beautiful, fast, and accessible** web apps  
 
-🚀 Currently working with **React, Next.js, TypeScript & Tailwind**
+🚀 Currently working with **React, Next.js, TypeScript & Tailwind / Css module **
 
 </div>
 
