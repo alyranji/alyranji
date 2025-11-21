@@ -34,10 +34,7 @@
 | 🧭 **Next.js**             | 🚀 SSR/SSG, routing, full-stack React apps         | ⭐⭐⭐⭐☆ (Advanced)           |
 | 💨 **Tailwind CSS**        | 🎨 Utility-first responsive UI styling            | ⭐⭐⭐⭐⭐ (Expert)             |
 | 🧠 **TypeScript**         | 📝 Type-safe JavaScript development               | ⭐⭐⭐⭐⭐ (Expert)             |
-| 🧰 **Redux Toolkit**       | 🌍 Scalable state management                      | ⭐⭐⭐⭐☆ (Advanced)           |
-| 🔍 **TanStack Query**      | 🔄 Server state management & data fetching         | ⭐⭐⭐⭐☆ (Advanced)           |
 | ✨ **JavaScript**         | 🧭 Dynamic interfaces, SPA logic                  | ⭐⭐⭐⭐☆ (Advanced)           |
-| 🗄️ **Supabase**           | 🔐 BaaS, Database, Auth, Realtime                  | ⭐⭐⭐⭐☆ (Advanced)           |
 | 📝 **React Hook Form**    | ✅ Form handling with validation                   | ⭐⭐⭐⭐⭐ (Expert)             |
 | 🛡️ **Zod**               | 🧪 Schema validation & type-safe data parsing     | ⭐⭐⭐⭐⭐ (Expert)             |
 
