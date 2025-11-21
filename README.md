@@ -85,64 +85,11 @@
 </div>
 
 
----
 
-## 🔥 GitHub Streak Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frau-azadeh&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Most Starred Repos](https://github-contributor-stats.vercel.app/api?username=frau-azadeh&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frau-azadeh&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=frau-azadeh&theme=radical)
-
-
-
----
-
-## 🏅 My GitHub Achievements
-
-<!-- Committers.top Badge -->
-[![🇮🇷 Committers.top Iran (All)](https://user-badge.committers.top/iran/frau-azadeh.svg?style=for-the-badge&color=purple)](https://user-badge.committers.top/iran/frau-azadeh)
-[![🇮🇷 Committers.top Iran (Public)](https://user-badge.committers.top/iran_public/frau-azadeh.svg?style=for-the-badge&color=red)](https://user-badge.committers.top/iran_public/frau-azadeh)
-[![🇮🇷 Committers.top Iran (Private)](https://user-badge.committers.top/iran_private/frau-azadeh.svg?style=for-the-badge&color=yellow)](https://user-badge.committers.top/iran_private/frau-azadeh)
-
-
-
----
-
-## 🤝 Soft Skills
-- Teamwork & Collaboration  
-- Problem-Solving & Debugging  
-- Agile & Scrum Workflow  
-- Communication & Knowledge Sharing  
----
-
-## 📚 Articles & Writings
-
-I enjoy sharing what I learn about frontend development, design principles, and practical coding tips.  
-Here are some of the articles I've published on [Medium](https://medium.com/@designweb.azadeh):
-
-- [🧠 What is React Forget and Why It Matters](https://medium.com/@designweb.azadeh/what-is-react-forget-and-why-it-matters-7a9823e0877f)  
-  A simple breakdown of React Forget and how it impacts rendering and performance.
-
-- [🔄 State Persistence in React Apps with Redux Persist](https://medium.com/@designweb.azadeh/state-persistence-in-react-apps-with-redux-persist-37a29f5c8fd1)  
-  How to keep your Redux state intact across refreshes and app restarts.
-
-- [⚙️ Static Button Component: Static vs Dynamic Components in React + TypeScript](https://medium.com/@designweb.azadeh/static-button-componentstatic-vs-dynamic-components-in-react-and-typescript-29a0c09e1f49)  
-  A practical comparison of static and dynamic components, and when to use each.
-
-  
-
-➡️ [View all articles on Medium »](https://medium.com/@designweb.azadeh)
-
----
 
 ## 📫 Let's Connect!
 
-- 🌐 [Website](https://sunflower-dev.com)
-- 📧 [Email](designweb.azadeh@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alyranji/)
+- 📧 [Email](ali.ranjbaran76@gmail.com)
   
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadeh-sharifi-soltani/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyranji/)
