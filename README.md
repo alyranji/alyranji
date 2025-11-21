@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=45&lines=Hi+I'm+Ali Ranjbaran+%F0%9F%8C%BB;Front-end+Developer+from+Iran+%E2%9D%A4%EF%B8%8F+%F0%9F%A4%8D+%F0%9F%92%9A;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
 </p>
-
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hello+I%27m+Ali+Ranjbaran%F0%9F%98%81%22%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 <div align="left">
 
 🌻 **Hi, Alyranji is here** – A passionate Front-End Developer from Iran ❤️🤍💚
