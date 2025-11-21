@@ -99,6 +99,11 @@
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/my-doctor.jpg" width="100%"/></td>
     </tr>
    <tr>
+      <td>Avicen</td>
+      <td><a href="#">Live</a></td>
+      <td><img src="https://github.com/alyranji/alyranji/blob/a919042a7743f1d4b02e10b381926511962c95d3/images/avicen.jpg" width="100%"/></td>
+    </tr>
+   <tr>
       <td>InknowTex Iran</td>
       <td><a href="https://inknowtex.ir/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/inknowtex.jpg" width="100%"/></td>
