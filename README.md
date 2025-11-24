@@ -73,13 +73,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>IranTour Landing</td>
+      <td>IranTour Landing (React, Next.js, Typescript, Swiper.js, Tailwind Css, Webpack)</td>
       <td><a href="https://irantour.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/7d7b428fd70354d35286ac12e23939e06057c314/images/iran-tour.jpg" width="100%"/></td>
     </tr>
     <tr>
     <tr>
-      <td>Mysmartgene Blog</td>
+      <td>Mysmartgene Blog (Astro, Headless CMS, Mysql, Swiper.js, Tailwind Css)</td>
       <td><a href="https://msg-blog-five.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/msg.jpg" width="100%"/></td>
     </tr>
