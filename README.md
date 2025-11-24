@@ -102,7 +102,12 @@
       <td>Avicen</td>
       <td><a href="#">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/a919042a7743f1d4b02e10b381926511962c95d3/images/avicen.jpg" width="100%"/></td>
-    </tr>
+   </tr>
+   <tr>
+      <td>Mysmartgene Blog(Wordpress)</td>
+      <td><a href="https://mysmartgene.com/blog/">Live</a></td>
+      <td><img src="https://github.com/alyranji/alyranji/blob/6c4a4cc599a1b6f4d941fb8b1e267e865e8875ed/images/MSG-blog.jpg" width="100%"/></td>
+   </tr>
    <tr>
       <td>InknowTex Iran</td>
       <td><a href="https://inknowtex.ir/">Live</a></td>
