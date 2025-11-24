@@ -84,32 +84,32 @@
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/msg.jpg" width="100%"/></td>
     </tr>
     <tr>
-      <td>Corner Gamenet</td>
+      <td>Corner Gamenet (Next.js,Typescript, Shadcn UI)</td>
       <td><a href="https://cornergaming.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/corner.jpg" width="100%"/></td>
     </tr>
     <tr>
-      <td>Portfolio</td>
+      <td>Portfolio (Next.js,Typescript, Tailwind Css)</td>
       <td><a href="https://portfolio-two-azure-27.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/portfolio.jpg" width="100%"/></td>
     </tr>
     <tr>
-      <td>My Doctor</td>
+      <td>My Doctor (Next.js,Typescript, Css Module)</td>
       <td><a href="https://paziresh24-clone.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/my-doctor.jpg" width="100%"/></td>
     </tr>
    <tr>
-      <td>Avicen</td>
+      <td>Avicen (Wordpress, Elementor, Php)</td>
       <td><a href="#">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/a919042a7743f1d4b02e10b381926511962c95d3/images/avicen.jpg" width="100%"/></td>
    </tr>
    <tr>
-      <td>Mysmartgene Blog(Wordpress)</td>
+      <td>Mysmartgene Blog(Wordpress, Elementor, Php)</td>
       <td><a href="https://mysmartgene.com/blog/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/6c4a4cc599a1b6f4d941fb8b1e267e865e8875ed/images/MSG-blog.jpg" width="100%"/></td>
    </tr>
    <tr>
-      <td>InknowTex Iran</td>
+      <td>InknowTex Iran (Wordpress, Elementor)</td>
       <td><a href="https://inknowtex.ir/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/inknowtex.jpg" width="100%"/></td>
     </tr>
