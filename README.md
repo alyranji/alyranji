@@ -98,6 +98,11 @@
       <td><a href="https://paziresh24-clone.vercel.app/">Live</a></td>
       <td><img src="https://github.com/alyranji/alyranji/blob/bda6e1eeb29eb3b1c4dd5fc6731084db996ae64d/images/my-doctor.jpg" width="100%"/></td>
     </tr>
+    <tr>
+      <td>CliqMind En - Redesigned (Next.js,Typescript, Css Module)</td>
+      <td><a href="">Live</a></td>
+      <td><img src="https://github.com/alyranji/alyranji/blob/9fac552c2b055b4507b22769aa746224dd2deacb/images/CliqMind-En.png" width="100%"/></td>
+    </tr>
    <tr>
       <td>Avicen (Wordpress, Elementor, Php)</td>
       <td><a href="#">Live</a></td>
